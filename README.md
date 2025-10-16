@@ -29,7 +29,7 @@ A modern, responsive Todo List application built with React, Vite, and Tailwind 
 <div style="display:flex; gap:2px">
    <img height="180px" src="/demo/desktop1.gif"/>
    <img height="180px" src="/demo/phone-1.jpg"/>
-   <img height="180px" src="demo/phone-2.jpg"/>
+   <img height="180px" src="/demo/phone-2.jpg"/>
 </div>
 
 ## 🏃‍♂️ Getting Started
