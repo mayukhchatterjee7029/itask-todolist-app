@@ -8,7 +8,7 @@ A modern, responsive Todo List application built with React, Vite, and Tailwind 
 
 - **Add Todos**: Easily add new tasks with a simple input field.
 - **Edit Todos**: Modify existing tasks inline.
-- **Delete Todos**: Remove tasks with a confirmation prompt.
+- **Delete s**: Remove tasks with a confirmation prompt.
 - **Mark as Completed**: Toggle completion status with checkboxes.
 - **Show/Hide Finished**: Filter to show or hide completed tasks.
 - **Persistent Storage**: Todos are saved in local storage.
@@ -26,11 +26,11 @@ A modern, responsive Todo List application built with React, Vite, and Tailwind 
 
 ## 📸 Screenshots
 
-### Desktop View
-![Desktop Screenshot](https://via.placeholder.com/800x600?text=Desktop+View) <!-- Replace with actual screenshot URL -->
-
-### Mobile View
-![Mobile Screenshot](https://via.placeholder.com/400x600?text=Mobile+View) <!-- Replace with actual screenshot URL -->
+<div style="display:flex; gap:2px">
+   <img height="180px" src="/demo/desktop1.gif"/>
+   <img height="180px" src="/demo/phone-1.jpg"/>
+   <img height="180px" src="demo/phone-2.jpg"/>
+</div>
 
 ## 🏃‍♂️ Getting Started
 
@@ -43,7 +43,7 @@ A modern, responsive Todo List application built with React, Vite, and Tailwind 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todolist-app.git
+   git clone https://github.com/mayukhchatterjee7029/itask-todolist-app.git
    cd todolist-app
    ```
 
@@ -95,8 +95,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-- **Your Name** - [Your GitHub](https://github.com/your-username)
-
+**Mayukh Chatterjee**
+- GitHub: [@mayukhchatterjee7029](https://github.com/mayukhchatterjee7029)
+- Twitter: [@mayukh_chttrjee](https://twitter.com/mayukh_chttrjee)
+  
 ## 🙏 Acknowledgments
 
 - Inspired by modern todo apps.
